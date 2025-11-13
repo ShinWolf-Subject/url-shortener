@@ -1,7 +1,9 @@
 # 🔗 URL Shortener
 
 A fast, clean, and minimalist **URL Shortener** built with **Node.js**, **Express**, and **TailwindCSS**, then deployed seamlessly on **Vercel**.  
-MIT, OPS, dan Asik 😎🗿
+MIT, OPS, dan Asik 😎🗿 
+
+Note: Ini cuma pake storage JSON sementara/bukan database
 
 ![Preview](https://raw.githubusercontent.com/ShinWolf-Subject/url-shortener/main/public/preview.png)
 
