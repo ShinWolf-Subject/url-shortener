@@ -55,6 +55,7 @@ Then open:
 
 🗂️ Project Structure
 
+```
 📦 url-shortener
 ├── public/
 │   ├── index.html       # Main UI
@@ -64,7 +65,7 @@ Then open:
 ├── package.json         # Dependencies
 ├── vercel.json          # Deployment config
 └── README.md
-
+```
 
 ---
 
